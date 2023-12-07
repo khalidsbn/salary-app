@@ -1,0 +1,5 @@
+Due to the big size of the data I couldn't upload it to GitHub repo.
+
+Here is how to can download it:
+	Go to this website, and choose the last version available. 
+	
