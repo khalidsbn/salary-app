@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
+"""
 # Process functions
 def shorten_categories(categories, cutoff):
     categorical_map = {}
@@ -59,7 +59,8 @@ def load_data():
 
 
 df = load_data()
-
+"""
+df = pd.read_csv('data/df_cleaned.csv')
 
 # display page
 def show_explore_page():
