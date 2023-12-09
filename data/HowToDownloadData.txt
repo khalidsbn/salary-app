@@ -1,5 +1,6 @@
 Due to the big size of the data I couldn't upload it to GitHub repo.
 
-Here is how to can download it:
-	Go to this website, and choose the last version available. 
+Here is how to download it: https://insights.stackoverflow.com/survey
+
+Go to the website, and choose the last version available. 
 	
